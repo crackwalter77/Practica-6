@@ -1,0 +1,215 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Casa",
+                "id": 1,
+                "numCasa": "Nro 317"
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Casa",
+                    "id": 2,
+                    "numCasa": "Nro 615"
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Casa",
+                        "id": 3,
+                        "numCasa": "Nro 003"
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Casa",
+                            "id": 4,
+                            "numCasa": "Nro 004"
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Casa",
+                                "id": 5,
+                                "numCasa": "Nro 005"
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Casa",
+                                    "id": 6,
+                                    "numCasa": "Nro 006"
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Casa",
+                                        "id": 7,
+                                        "numCasa": "Nro 007"
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Casa",
+                                            "id": 8,
+                                            "numCasa": "Nro 008"
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Casa",
+                                                "id": 9,
+                                                "numCasa": "Nro 009"
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Casa",
+                                                    "id": 10,
+                                                    "numCasa": "Nro 010"
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Casa",
+                                                        "id": 11,
+                                                        "numCasa": "Nro 020"
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Casa",
+                                                            "id": 12,
+                                                            "numCasa": "Nro 021"
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Casa",
+                                                                "id": 13,
+                                                                "numCasa": "Nro 022"
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Casa",
+                                                                    "id": 14,
+                                                                    "numCasa": "Nro 023"
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Casa",
+                                                                        "id": 15,
+                                                                        "numCasa": "Nro 024"
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Casa",
+                                                                            "id": 16,
+                                                                            "numCasa": "Nro 025"
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Casa",
+                                                                                "id": 17,
+                                                                                "numCasa": "Nro 026"
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Casa",
+                                                                                    "id": 18,
+                                                                                    "numCasa": "Nro 027"
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Casa",
+                                                                                        "id": 19,
+                                                                                        "numCasa": "Nro 028"
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Casa",
+                                                                                            "id": 20,
+                                                                                            "numCasa": "Nro 029"
+                                                                                        },
+                                                                                        "sig": {
+                                                                                            "info": {
+                                                                                                "@class": "modelo.Casa",
+                                                                                                "id": 21,
+                                                                                                "numCasa": "Nro 030"
+                                                                                            },
+                                                                                            "sig": {
+                                                                                                "info": {
+                                                                                                    "@class": "modelo.Casa",
+                                                                                                    "id": 22,
+                                                                                                    "numCasa": "Nro 031"
+                                                                                                },
+                                                                                                "sig": {
+                                                                                                    "info": {
+                                                                                                        "@class": "modelo.Casa",
+                                                                                                        "id": 23,
+                                                                                                        "numCasa": "Nro 032"
+                                                                                                    },
+                                                                                                    "sig": {
+                                                                                                        "info": {
+                                                                                                            "@class": "modelo.Casa",
+                                                                                                            "id": 24,
+                                                                                                            "numCasa": "Nro 033"
+                                                                                                        },
+                                                                                                        "sig": {
+                                                                                                            "info": {
+                                                                                                                "@class": "modelo.Casa",
+                                                                                                                "id": 25,
+                                                                                                                "numCasa": "Nro 034"
+                                                                                                            },
+                                                                                                            "sig": {
+                                                                                                                "info": {
+                                                                                                                    "@class": "modelo.Casa",
+                                                                                                                    "id": 26,
+                                                                                                                    "numCasa": "Nro 035"
+                                                                                                                },
+                                                                                                                "sig": {
+                                                                                                                    "info": {
+                                                                                                                        "@class": "modelo.Casa",
+                                                                                                                        "id": 27,
+                                                                                                                        "numCasa": "Nro 036"
+                                                                                                                    },
+                                                                                                                    "sig": {
+                                                                                                                        "info": {
+                                                                                                                            "@class": "modelo.Casa",
+                                                                                                                            "id": 28,
+                                                                                                                            "numCasa": "Nro 037"
+                                                                                                                        },
+                                                                                                                        "sig": {
+                                                                                                                            "info": {
+                                                                                                                                "@class": "modelo.Casa",
+                                                                                                                                "id": 29,
+                                                                                                                                "numCasa": "Nro 038"
+                                                                                                                            },
+                                                                                                                            "sig": {
+                                                                                                                                "info": {
+                                                                                                                                    "@class": "modelo.Casa",
+                                                                                                                                    "id": 30,
+                                                                                                                                    "numCasa": "Nro 039"
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    }
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 30
+    }
+}
